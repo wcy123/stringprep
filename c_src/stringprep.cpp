@@ -17,7 +17,7 @@
  * 02111-1307 USA
  *
  */
-
+#include <stdint.h>
 #include <string.h>
 #include <erl_nif.h>
 
